@@ -7,8 +7,7 @@ npm i
 
 ## Build & Run
 - Copy the contents of the .env.example file to a .env next to it, and edit it with your values.
-- Run ```npm build``` to build the files.
-- Run ```npm start``` to start the application.
+- Run ```npm run dev``` to start the application.
 
 ## Run with Docker
 
@@ -19,7 +18,7 @@ docker build -t my-app .
 
 - Run:
 ```bash
-docker run -d -p 3000:3000 my-app
+docker run -it -p 3000:3000 my-app
 ```
 
 ## Guideline
