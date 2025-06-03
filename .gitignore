@@ -12,3 +12,4 @@ yarn-error.log
 coverage
 # local DB
 src/api/db/**
+!src/api/db/.gitkeep
