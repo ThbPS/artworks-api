@@ -30,8 +30,8 @@ Pour vous aider, voici les URLs de l'API de l'institut d'art de Chicago:
 **Bonus**
 
 - Compléter les tests d'intégrations pour vérifier que les oeuvres d'art de Picasso et Monet sont retournées par l'API.
-- Utiliser le timestamp des oeuvres d'art pour enregistrer les oeuvres d'art au format JSON
-quand les indexes de la recherche de l'institut d'art de Chicago ont été mise à jour afin de mitiger les erreurs de limitations du nombre d'appels vers l'API.
+- Utiliser le timestamp des oeuvres d'art pour enregistrer les oeuvres d'art quand les indexes de la recherche de l'institut d'art de Chicago ont été mise à jour afin de mitiger les erreurs de limitations du nombre d'appels vers l'API.
+- Implémenter une solution de cache sur une durée de une heure.
 
 ### EN
 
@@ -57,5 +57,5 @@ To help you, here are the URLs of the Art Institute of Chicago's API:
 **Bonus**
 
 - Complete the integration tests to check that the Picasso and Monet works of art are returned by the API.
-- Use the artwork timestamp to save artwork in JSON format
-when the Art Institute of Chicago's search indexes were updated so as not to have errors limiting the number of calls to the API.
+- Use the artwork timestamp to save artwork when the Art Institute of Chicago's search indexes were updated so as not to have errors limiting the number of calls to the API.
+- Implement a one-hour cache solution.
