@@ -39,7 +39,7 @@ An art collector would like to know information about the works of art by Picass
 
 Your mission, should you accept it, will be to help this art collector, who is asking you to get his application up and running again.
 
-- Retrieve and save the information about the works of art in JSON format: ```id```, ```image_id```, ```title```, ```description```, ```dimensions```, ```place_of_origin``` et ```date_display``` then save the images in JPG format.
+- Retrieve and save the information about the works of art in JSON format: ```id```, ```image_id```, ```title```, ```description```, ```dimensions```, ```place_of_origin``` and ```date_display``` then save the images in JPG format.
 A folder tree must be respected:
 
 ```bash
