@@ -1,5 +1,5 @@
 services:
-  artorks-api:
+  artworks-api:
     build:
       context: .
       dockerfile: ./Dockerfile

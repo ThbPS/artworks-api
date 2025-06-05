@@ -8,7 +8,7 @@
 
 ### FR
 
-Un collectionneur d'art souhaiterai connaitre les informations des oeuvres d'art de Picasso et Monet qui sont exposées à l'institut d'art de Chicago, il a essayé d'utiliser leur API pour développer son application avec NodeJS et TypeScript mais il n'a pas assez de connaissance technique et vous demande de l'aide.
+Un collectionneur d'art souhaiterait connaitre les informations des oeuvres d'art de Picasso et Monet qui sont exposées à l'institut d'art de Chicago, il a essayé d'utiliser leur API pour développer son application avec NodeJS et TypeScript mais il n'a pas assez de connaissance technique et vous demande de l'aide.
 
 Votre mission, si vous l'acceptez, sera d'aider ce collectionneur d'art, il vous demande de reprendre son application pour qu'elle soit fonctionnelle.
 
