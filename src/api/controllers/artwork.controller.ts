@@ -1,7 +1,7 @@
 import { Request, Response, NextFunction } from 'express';
 import { ArtworkService } from '../services/artwork.service';
 import { StoreService } from '../services/store-service';
-import { Artwork } from '../types';
+import { StoreDriver, Artwork } from '../types';
 
 const artworkService = new ArtworkService();
 const storeService = new StoreService();

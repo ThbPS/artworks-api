@@ -6,4 +6,5 @@ export type Artwork = {
   dimensions: string;
   place_of_origin: string;
   date_display: string;
+  artist_display: string;
 };
