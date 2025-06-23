@@ -1,5 +1,4 @@
-import * as express from 'express';
-import { Router } from 'express';
+import express, { Router } from 'express';
 import { storeArtworks } from './api/controllers/artwork.controller';
 
 const app = express();
