@@ -12,10 +12,9 @@ export interface ArtworkTable {
   id: number;
   image_id: string;
   title: string;
-  description: string;
+  description: string | null;
   dimensions: string;
   place_of_origin: string;
-  artist_display: string;
   date_display: ColumnType<Date, string, string>;
 }
 
